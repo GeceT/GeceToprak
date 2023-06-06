@@ -10,7 +10,7 @@
 ## About Me
 I think the question of who I am is unimportant, just and only a Turkish young man who develops himself, studies people and the world,deals with software and borsa istanbul,is known for the risks I take on the spot, turns the crisis into an opportunity,likes to do research on psychology,read articles, marketing and original thoughts :)
 
-## ✈️ | Languages I actively use
+## ✈️ | Languages i actively use
 
 | Android | Kotlin 
 | :-: | :-: 
