@@ -1,4 +1,3 @@
-<!-- Header -->
 <!-- Typing Mode -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=7000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1333&lines=Welcome+to+my+Github+Profile+%F0%9F%99%83)](https://git.io/typing-svg)
 <br><br>
