@@ -18,17 +18,15 @@
 - I develop mobile application projects with my teachers whose trainings I attended.
 
 
-## 🔸Languages and Tools I Use
+## ✈️ | Languages I actively use
 
 | Android | Kotlin 
 | :-: | :-: 
 |<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="43" height="43"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="37" height="37"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>|<img align="center" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png" alt="intellij" width="40" height="40"/>|<img align="center" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="postman" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" width="43" height="43"/>|<img align="center" 
 
 <!-- Design Tool -->
-## 🔸Design Tool I Use
-| Figma |
-| :-: |
-|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="41" height="41"/>|<img align="center" 
+## 📈 | TradingView adresim (güncel olmayan içerik) 
+https://tr.tradingview.com/u/gecetoprakk/
 
 <!-- Contact -->
 ## :link: **Contact**
