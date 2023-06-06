@@ -8,8 +8,8 @@
 <img align="right" height="300" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMyNDM0YThlYmI2ZjVjZDhhOWJlYmUzMWI2M2YxMjE2NmRiYmVlMCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 ## About Me
-I think the question of who I am is unimportant, just and only a Turkish young man who develops himself, studies people and the world, deals with software and borsa istanbul, is known for the risks I take on the spot, turns the crisis into an opportunity, likes 
-to do research on psychology, read articles, marketing and original thoughts :)
+I think the question of who I am is unimportant, just and only a Turkish young man who develops himself, studies people and the world, deals with software and borsa istanbul, is known for the risks I take on the spot, turns the crisis into an opportunity, likes to do research on psychology,
+read articles, marketing and original thoughts :)
 
 ## ✈️ | Languages I actively use
 
