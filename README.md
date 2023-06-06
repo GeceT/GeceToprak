@@ -7,16 +7,8 @@
 <!-- Gif --> 
 <img align="right" height="300" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMyNDM0YThlYmI2ZjVjZDhhOWJlYmUzMWI2M2YxMjE2NmRiYmVlMCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif">
 
-## 🔸Who am I
-- I graduated from Pamukkale University | Computer Engineering<br>
-- I am a software lover.<br>
-- I am a person who loves nature and animals very much.<br>
-
-## 🔸What am I doing
-- I am working on Android mobile application development.<br>
-- Since I love to design, I am also trying to improve myself in the field of UI.<br>
-- I develop mobile application projects with my teachers whose trainings I attended.
-
+## About Me
+I think the question of who I am is unimportant, just and only a Turkish young man who develops himself, studies people and the world, deals with software and borsa istanbul, is known for the risks I take on the spot, turns the crisis into an opportunity, likes to do research on psychology, read articles, marketing and original thoughts :)
 
 ## ✈️ | Languages I actively use
 
