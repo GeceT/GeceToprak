@@ -21,8 +21,8 @@
 
 ## 🔸Languages and Tools I Use
 
-Android | <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="43" height="43"/>|<img align="center" 
-Kotlin  | src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="37" height="37"/>
+Android | <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="43" height="43"/>
+Kotlin  | <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>
 
 <!-- Design Tool -->
 ## 🔸Design Tool I Use
