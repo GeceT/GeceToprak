@@ -5,8 +5,7 @@
 <br>
 
 <!-- Gif --> 
-![giphy](https://github.com/GeceT/GeceToprak/assets/135031608/99876d8b-5388-45eb-a810-2c75d5970e5c)
-
+<img align="right" height="300" width="350" src="https://github.com/GeceT/GeceToprak/assets/135031608/99876d8b-5388-45eb-a810-2c75d5970e5c">
 
 ## About Me
 I think the question of who I am is unimportant, just and only a Turkish young man who develops himself, studies people and the world,deals with software and borsa istanbul,is known for the risks I take on the spot, turns the crisis into an opportunity,likes to do research on psychology,read articles, marketing and original thoughts :)
