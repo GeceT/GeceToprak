@@ -30,6 +30,7 @@ Android | <img align="center" src="https://developer.android.com/images/logos/an
 
 ## :link: **Contact**
 | Linkedin | Mail
+| :-: | :-: | :-:
 |<a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-aras-22049419b/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="linkedin" width="43" height="43"/></a>|<a href="mailto:aras.tugcee@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="mail" width="43" height="43"/></a>
 
  <!-- Footer -->
