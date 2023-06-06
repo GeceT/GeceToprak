@@ -26,8 +26,9 @@ https://tr.tradingview.com/u/gecetoprakk/
 | :-: | :-: 
 |<a href="https://www.linkedin.com/in/gece-toprak-11a177279/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="linkedin" width="43" height="43"/></a>|<a href="mailto:gecetoprakk.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="mail" width="43" height="43"/></a>
 
+
  <!-- Footer -->
-![Basics+of+Video+Coding](https://github.com/GeceT/GeceToprak/assets/135031608/2cbf46d0-95e6-47ce-b65a-eb5e13809f85)
+ <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
                                                                                                                                
 <!---
