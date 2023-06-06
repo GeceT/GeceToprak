@@ -28,9 +28,4 @@ https://tr.tradingview.com/u/gecetoprakk/
 
 
  <!-- Footer -->
- <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-                                                                                                                               
-<!---
-TugceAras/TugceAras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.--->
+ <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">                                   
