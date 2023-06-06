@@ -27,7 +27,7 @@ Android | <img align="center" src="https://developer.android.com/images/logos/an
 ## 🔸Design Tool I Use
 
 
-
+<!-- Contact -->
 ## :link: **Contact**
 | Linkedin | Mail
 | :-: | :-: | :-:
