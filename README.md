@@ -23,13 +23,11 @@
 
 Android | <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="43" height="43"/>  Kotlin  | <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>
 
-<!-- Design Tool -->
-## 🔸Design Tool I Use
-| Figma |
-| :-: |
-|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="41" height="41"/>|<img align="center" 
 
-<!-- Contact -->
+## 🔸Design Tool I Use
+
+
+
 ## :link: **Contact**
 | Linkedin | Medium | Mail
 | :-: | :-: | :-:
